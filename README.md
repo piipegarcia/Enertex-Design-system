@@ -105,7 +105,7 @@ Barra JetSearch (envoltorio)
 
 ## 14) Licencia (MIT – abierta para uso privado y comercial)
 
-Copyright (c) 2025 Felipe Garcia — https://felipegarcia.com
+Copyright (c) 2025 Felipe Garcia
 
 Se concede permiso, de manera gratuita, a cualquier persona que obtenga una copia de este software y de los archivos de documentación asociados (el “Software”), para usar el Software sin restricción, incluyendo sin limitación los derechos a usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y/o vender copias del Software, y a permitir a las personas a las que se les proporcione el Software que lo hagan, sujeto a las siguientes condiciones:
 
